@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 821d832a44a5e894582d425452b0d124
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: barbarianWaistarmorLeftlow_mesh
+    100002: barbarianlow_meshShape
+    100004: barbarianBackflaplow_meshShape
+    100006: barbarianNecklace_low_mesh
+    100008: barbarianNecklace_low_meshShape
+    100010: barbarianShinguardlow_meshShape
+    100012: barbarianShinguardlow_mesh
+    100014: barbarianlow_mesh
+    100016: barbarianFrontflaplow_mesh
+    100018: barbarianFrontflaplow_meshShape
+    100020: barbarianBeardlow_mesh
+    100022: barbarianBeardlow_meshShape
+    100024: barbarianPauldronlow_mesh
+    100026: barbarianPauldronlow_meshShape
+    100028: barbarianBeltlow_mesh
+    100030: barbarianBeltlow_meshShape
+    100032: barbarianBackflaplow_mesh
+    100034: barbarianWaistarmorlow_mesh
+    100036: barbarianNeckarmorlow_meshShape
+    100038: barbarianNeckarmorlow_mesh
+    100040: barbarianWeaponlow_meshShape
+    100042: barbarianWeaponlow_mesh
+    100044: backflap02_jnt_c
+    100046: backflap01_jnt_c
+    100048: frontflap02_jnt_c
+    100050: frontflap01_jnt_c
+    100052: waistarmor01_jnt_rt1
+    100054: waistarmor01_jnt_rt
+    100056: waistarmor01_jnt_lf1
+    100058: waistarmor01_jnt_lf
+    100060: middle01_jnt_rt1
+    100062: middle01_jnt_lf1
+    100064: lowerpoly
+    100066: axe_jnt
+    100068: toe_jnt_rt
+    100070: //RootNode
+    100072: index02_jnt_rt
+    100074: index01_jnt_rt
+    100076: thumb02_jnt_rt
+    100078: thumb01_jnt_rt
+    100080: wrist_jnt_rt
+    100082: elbow_jnt_rt
+    100084: shoulder_jnt_rt
+    100086: clavicle_jnt_rt
+    100088: pinky02_jnt_lf
+    100090: pinky01_jnt_lf3
+    100092: ring02_jnt_lf
+    100094: ring01_jnt_lf2
+    100096: middle02_jnt_lf
+    100098: index02_jnt_lf
+    100100: index01_jnt_lf
+    100102: thumb02_jnt_lf
+    100104: thumb01_jnt_lf
+    100106: wrist_jnt_lf
+    100108: elbow_jnt_lf
+    100110: shoulder_jnt_lf
+    100112: clavicle_jnt_lf
+    100114: eye_jnt_lf
+    100116: eye_jnt_rt
+    100118: jawEnd_jnt_c
+    100120: jaw_jnt_c
+    100122: head_jnt_c
+    100124: neck_jnt_c
+    100126: spine02_jnt_c
+    100128: spine01_jnt_c
+    100130: COG_jnt_c
+    100132: barbarianlow_meshShape 1
+    100134: perspShape
+    100136: pelvis_jnt_c
+    100138: thigh_jnt_lf
+    100140: thigh_jnt_rt
+    100142: knee_jnt_rt
+    100144: belt02_jnt_lf
+    100146: belt02_jnt_rt
+    100148: ankle_jnt_lf
+    100150: knee_jnt_lf
+    100152: ball_jnt_lf
+    100154: toe_jnt_lf
+    100156: ball_jnt_rt
+    100158: ankle_jnt_rt
+    100160: barbarianWaistarmorRightlow_meshShape
+    100162: barbarianWaistarmorLeftlow_meshShape
+    100164: barbarianWaistarmorRightlow_mesh
+    100166: barbarianWaistarmorlow_meshShape
+    100168: middle02_jnt_rt
+    100170: ring02_jnt_rt
+    100172: ring01_jnt_rt2
+    100174: pinky01_jnt_rt3
+    100176: pinky02_jnt_rt
+    100178: barbarianBeardlow_meshShape 1
+    100180: barbarianWeaponlow_meshShape 1
+    100182: barbarianBeltlow_meshShape 1
+    100184: barbarianWaistarmorRightlow_meshShape 1
+    100186: barbarianFrontflaplow_meshShape 1
+    100188: barbarianWaistarmorlow_meshShape 1
+    100190: barbarianShinguardlow_meshShape 1
+    100192: barbarianWaistarmorLeftlow_meshShape 1
+    100194: barbarianBackflaplow_meshShape 1
+    100196: barbarianNecklace_low_meshShape 1
+    100198: barbarianPauldronlow_meshShape 1
+    100200: barbarianNeckarmorlow_meshShape 1
+    400000: barbarianWaistarmorLeftlow_mesh
+    400002: barbarianlow_meshShape
+    400004: barbarianBackflaplow_meshShape
+    400006: barbarianNecklace_low_mesh
+    400008: barbarianNecklace_low_meshShape
+    400010: barbarianShinguardlow_meshShape
+    400012: barbarianShinguardlow_mesh
+    400014: barbarianlow_mesh
+    400016: barbarianFrontflaplow_mesh
+    400018: barbarianFrontflaplow_meshShape
+    400020: barbarianBeardlow_mesh
+    400022: barbarianBeardlow_meshShape
+    400024: barbarianPauldronlow_mesh
+    400026: barbarianPauldronlow_meshShape
+    400028: barbarianBeltlow_mesh
+    400030: barbarianBeltlow_meshShape
+    400032: barbarianBackflaplow_mesh
+    400034: barbarianWaistarmorlow_mesh
+    400036: barbarianNeckarmorlow_meshShape
+    400038: barbarianNeckarmorlow_mesh
+    400040: barbarianWeaponlow_meshShape
+    400042: barbarianWeaponlow_mesh
+    400044: backflap02_jnt_c
+    400046: backflap01_jnt_c
+    400048: frontflap02_jnt_c
+    400050: frontflap01_jnt_c
+    400052: waistarmor01_jnt_rt1
+    400054: waistarmor01_jnt_rt
+    400056: waistarmor01_jnt_lf1
+    400058: waistarmor01_jnt_lf
+    400060: middle01_jnt_rt1
+    400062: middle01_jnt_lf1
+    400064: lowerpoly
+    400066: axe_jnt
+    400068: toe_jnt_rt
+    400070: //RootNode
+    400072: index02_jnt_rt
+    400074: index01_jnt_rt
+    400076: thumb02_jnt_rt
+    400078: thumb01_jnt_rt
+    400080: wrist_jnt_rt
+    400082: elbow_jnt_rt
+    400084: shoulder_jnt_rt
+    400086: clavicle_jnt_rt
+    400088: pinky02_jnt_lf
+    400090: pinky01_jnt_lf3
+    400092: ring02_jnt_lf
+    400094: ring01_jnt_lf2
+    400096: middle02_jnt_lf
+    400098: index02_jnt_lf
+    400100: index01_jnt_lf
+    400102: thumb02_jnt_lf
+    400104: thumb01_jnt_lf
+    400106: wrist_jnt_lf
+    400108: elbow_jnt_lf
+    400110: shoulder_jnt_lf
+    400112: clavicle_jnt_lf
+    400114: eye_jnt_lf
+    400116: eye_jnt_rt
+    400118: jawEnd_jnt_c
+    400120: jaw_jnt_c
+    400122: head_jnt_c
+    400124: neck_jnt_c
+    400126: spine02_jnt_c
+    400128: spine01_jnt_c
+    400130: COG_jnt_c
+    400132: barbarianlow_meshShape 1
+    400134: perspShape
+    400136: pelvis_jnt_c
+    400138: thigh_jnt_lf
+    400140: thigh_jnt_rt
+    400142: knee_jnt_rt
+    400144: belt02_jnt_lf
+    400146: belt02_jnt_rt
+    400148: ankle_jnt_lf
+    400150: knee_jnt_lf
+    400152: ball_jnt_lf
+    400154: toe_jnt_lf
+    400156: ball_jnt_rt
+    400158: ankle_jnt_rt
+    400160: barbarianWaistarmorRightlow_meshShape
+    400162: barbarianWaistarmorLeftlow_meshShape
+    400164: barbarianWaistarmorRightlow_mesh
+    400166: barbarianWaistarmorlow_meshShape
+    400168: middle02_jnt_rt
+    400170: ring02_jnt_rt
+    400172: ring01_jnt_rt2
+    400174: pinky01_jnt_rt3
+    400176: pinky02_jnt_rt
+    400178: barbarianBeardlow_meshShape 1
+    400180: barbarianWeaponlow_meshShape 1
+    400182: barbarianBeltlow_meshShape 1
+    400184: barbarianWaistarmorRightlow_meshShape 1
+    400186: barbarianFrontflaplow_meshShape 1
+    400188: barbarianWaistarmorlow_meshShape 1
+    400190: barbarianShinguardlow_meshShape 1
+    400192: barbarianWaistarmorLeftlow_meshShape 1
+    400194: barbarianBackflaplow_meshShape 1
+    400196: barbarianNecklace_low_meshShape 1
+    400198: barbarianPauldronlow_meshShape 1
+    400200: barbarianNeckarmorlow_meshShape 1
+    4300000: U3DMesh
+    4300002: barbarianWeaponlow_meshShape
+    4300004: barbarianNeckarmorlow_meshShape
+    4300006: barbarianWaistarmorlow_meshShape
+    4300008: barbarianBackflaplow_meshShape
+    4300010: barbarianFrontflaplow_meshShape
+    4300012: barbarianBeardlow_meshShape
+    4300014: barbarianPauldronlow_meshShape
+    4300016: barbarianBeltlow_meshShape
+    4300018: barbarianWaistarmorRightlow_meshShape
+    4300020: barbarianWaistarmorLeftlow_meshShape
+    4300022: barbarianShinguardlow_meshShape
+    4300024: barbarianNecklace_low_meshShape
+    4300026: barbarianlow_meshShape
+    7400000: all_in_one
+    7400002: idle
+    7400004: walk
+    7400006: run
+    7400008: attack_idle
+    7400010: attack01
+    7400012: attack02
+    7400014: attack03
+    7400016: attack04
+    7400018: attack05
+    7400020: jump
+    7400022: hit
+    7400024: death
+    7400026: recover
+    7400028: taunt
+    7400030: strafe_right
+    7400032: strafe_left
+    7400034: dodge_right
+    7400036: dodge_left
+    11100000: //RootNode
+    13700000: barbarianWaistarmorLeftlow_meshShape
+    13700002: barbarianWaistarmorRightlow_meshShape
+    13700004: barbarianWaistarmorlow_meshShape
+    13700006: barbarianWeaponlow_meshShape
+    13700008: barbarianBackflaplow_meshShape
+    13700010: barbarianNecklace_low_meshShape
+    13700012: barbarianlow_meshShape
+    13700014: barbarianShinguardlow_meshShape
+    13700016: barbarianPauldronlow_meshShape
+    13700018: barbarianFrontflaplow_meshShape
+    13700020: barbarianNeckarmorlow_meshShape
+    13700022: barbarianBeardlow_meshShape
+    13700024: barbarianBeltlow_meshShape
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 

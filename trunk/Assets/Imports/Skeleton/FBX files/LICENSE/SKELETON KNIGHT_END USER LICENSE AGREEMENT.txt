@@ -1,0 +1,13 @@
+the skeleton knight can be used and re used as much as you like in any project. But there are restrictions :
+
+1/ user is not allowed to use the asset in another environment as unity 3D.
+
+2/ user is not allowed to extract a part or the totality of the informations stored in the asset ( map, bodyparts geometry, rigging, animation ... )
+
+3/ user is not allowed to transform the asset without specific creator authorization.( except procedural additive animation at run time, skinned decals ang giving the asset some new props)
+
+4/ When using this asset in your project, remind you have to mention my name as 3d artist and 3d animator (Rodolphe LANGLOIS) when you're about to release.
+
+5/of course user is not allowed to resell this asset on other web sites or places.
+
+6/ if there is a point among those i mentionned you don't want to respect, don't use the asset and contact unity 3D quickly.

@@ -1,0 +1,12 @@
+idle 4 5
+walk 1 25
+carry 27 51
+hammer 53 66
+chop 70 90
+
+all loop
+
+mine is chop
+construct is hammer
+run is walk
+attack is chop

@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: 0722e64b9d583ce49b166d0870c04b3f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Axe:polySurface1
+    100002: Chest1
+    100004: Chest2
+    100006: Face
+    100008: Hammer:polySurface1
+    100010: Head
+    100012: joint11
+    100014: joint11 1
+    100016: joint12
+    100018: joint12 1
+    100020: joint13
+    100022: joint13 1
+    100024: joint14
+    100026: joint14 1
+    100028: joint15
+    100030: joint15 1
+    100032: joint16
+    100034: joint16 1
+    100036: joint17
+    100038: joint17 1
+    100040: joint18
+    100042: joint18 1
+    100044: joint19
+    100046: joint19 1
+    100048: joint20
+    100050: joint20 1
+    100052: joint21
+    100054: joint21 1
+    100056: joint22
+    100058: joint22 1
+    100060: joint23
+    100062: joint23 1
+    100064: joint24
+    100066: joint24 1
+    100068: joint25
+    100070: joint25 1
+    100072: LeftAnkle
+    100074: LeftBridge
+    100076: LeftElbow
+    100078: LeftHeel
+    100080: LeftHip
+    100082: LeftKnee
+    100084: LeftShoulder
+    100086: LeftToes
+    100088: LeftWrist
+    100090: Main
+    100092: Neck
+    100094: Pickaxe:polySurface1
+    100096: polySurface7
+    100098: RightAnkle
+    100100: RightBridge
+    100102: RightElbow
+    100104: RightHeel
+    100106: RightHip
+    100108: RightKnee
+    100110: RightShoulder
+    100112: RightToes
+    100114: RightWrist
+    100116: Spine1
+    100118: Spine2
+    100120: Spine3
+    100122: Spine4
+    100124: Stomach
+    100126: //RootNode
+    100128: WoodPile3:polySurface1
+    400000: Axe:polySurface1
+    400002: Chest1
+    400004: Chest2
+    400006: Face
+    400008: Hammer:polySurface1
+    400010: Head
+    400012: joint11
+    400014: joint11 1
+    400016: joint12
+    400018: joint12 1
+    400020: joint13
+    400022: joint13 1
+    400024: joint14
+    400026: joint14 1
+    400028: joint15
+    400030: joint15 1
+    400032: joint16
+    400034: joint16 1
+    400036: joint17
+    400038: joint17 1
+    400040: joint18
+    400042: joint18 1
+    400044: joint19
+    400046: joint19 1
+    400048: joint20
+    400050: joint20 1
+    400052: joint21
+    400054: joint21 1
+    400056: joint22
+    400058: joint22 1
+    400060: joint23
+    400062: joint23 1
+    400064: joint24
+    400066: joint24 1
+    400068: joint25
+    400070: joint25 1
+    400072: LeftAnkle
+    400074: LeftBridge
+    400076: LeftElbow
+    400078: LeftHeel
+    400080: LeftHip
+    400082: LeftKnee
+    400084: LeftShoulder
+    400086: LeftToes
+    400088: LeftWrist
+    400090: Main
+    400092: Neck
+    400094: Pickaxe:polySurface1
+    400096: polySurface7
+    400098: RightAnkle
+    400100: RightBridge
+    400102: RightElbow
+    400104: RightHeel
+    400106: RightHip
+    400108: RightKnee
+    400110: RightShoulder
+    400112: RightToes
+    400114: RightWrist
+    400116: Spine1
+    400118: Spine2
+    400120: Spine3
+    400122: Spine4
+    400124: Stomach
+    400126: //RootNode
+    400128: WoodPile3:polySurface1
+    4300000: polySurface7
+    4300002: Axe:polySurface1
+    4300004: Pickaxe:polySurface1
+    4300006: WoodPile3:polySurface1
+    4300008: Hammer:polySurface1
+    7400000: Walk
+    7400002: Carry
+    7400004: Hammer
+    7400006: Chop
+    7400008: Idle
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Axe:polySurface1
+    13700002: Hammer:polySurface1
+    13700004: Pickaxe:polySurface1
+    13700006: polySurface7
+    13700008: WoodPile3:polySurface1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Carry
+      takeName: Take 001
+      firstFrame: 27
+      lastFrame: 51
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Hammer
+      takeName: Take 001
+      firstFrame: 53
+      lastFrame: 66
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Chop
+      takeName: Take 001
+      firstFrame: 70
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 4
+      lastFrame: 4.0999999
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .300000012
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 
